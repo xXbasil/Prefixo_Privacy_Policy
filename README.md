@@ -1,5 +1,5 @@
 # Privacy Policy – Prefixo  
-[]  
+  
 **Effective Date:** 5/7/2025  
 
 **Prefixo** respects your privacy. This app helps you browse and search international phone codes with a **fully offline** experience and **no data tracking**, **no network access**, and **no data collection**.
